@@ -28,7 +28,7 @@ This application allows users to:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/halivan/video-call.git
+    git clone https://github.com/halivan/call.git
     ```
 
 2. Open the `index.html` file in your browser to start video calling.
@@ -37,6 +37,8 @@ This application allows users to:
     - Generate your unique ID.
     - Share your ID with a friend.
     - Enter your friend’s ID and click "Connect" to start the call.
+
+Alternatively, you can see the live version of the project [here](https://halivan.github.io/call/).
 
 ## Notes
 
